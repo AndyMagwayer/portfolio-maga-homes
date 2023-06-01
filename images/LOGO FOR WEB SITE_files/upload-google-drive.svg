@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-Upload_Google_Drive">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Upload_Google_Drive" data-name="Upload Google Drive" clip-path="url(#clip-Upload_Google_Drive)">
+    <g id="Group_1241" data-name="Group 1241" transform="translate(18450 -13192)">
+      <rect id="Rectangle_2929" data-name="Rectangle 2929" width="48" height="48" rx="5" transform="translate(-18450 13192)" fill="#fff"/>
+      <g id="Group_1240" data-name="Group 1240" transform="translate(-18437 13206)">
+        <g id="Group_1243" data-name="Group 1243">
+          <path id="Path_623" data-name="Path 623" d="M15.045,13.548H6.991l-3.449,6.1A2.967,2.967,0,0,0,4.733,20c3.168,0,9.634-.047,12.844-.047a1.687,1.687,0,0,0,.916-.293Z" fill="#2684fc"/>
+          <path id="Path_624" data-name="Path 624" d="M3.543,19.65l3.449-6.1H0A2.634,2.634,0,0,0,.382,14.8c.65,1.231,1.749,3.2,2.395,4.227A3.349,3.349,0,0,0,3.543,19.65Z" fill="#0066da"/>
+          <path id="Path_625" data-name="Path 625" d="M15.045,13.548l3.449,6.111A3.379,3.379,0,0,0,19.542,18.5c.534-.947,1.437-2.523,2.06-3.59A2.566,2.566,0,0,0,22,13.548Z" fill="#ea4335"/>
+          <path id="Path_626" data-name="Path 626" d="M6.992,13.548l4.023-7.083L7.42.393a2.926,2.926,0,0,0-.873.879C4.978,4.059,1.816,9.773.227,12.6A1.764,1.764,0,0,0,0,13.548Z" fill="#00ac47"/>
+          <path id="Path_627" data-name="Path 627" d="M15.045,13.548l-4.03-7.083L14.511.4a3.4,3.4,0,0,1,.967.872c1.57,2.787,4.731,8.5,6.321,11.325a1.737,1.737,0,0,1,.2.951Z" fill="#ffba00"/>
+          <path id="Path_628" data-name="Path 628" d="M7.419.4l3.6,6.07L14.511.4A2.988,2.988,0,0,0,13.144.045C11.767,0,9.534-.02,8.332.032A3.169,3.169,0,0,0,7.419.4" fill="#00832d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

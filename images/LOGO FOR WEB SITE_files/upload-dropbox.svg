@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-Upload_Dropbox">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Upload_Dropbox" data-name="Upload Dropbox" clip-path="url(#clip-Upload_Dropbox)">
+    <g id="Group_1245" data-name="Group 1245" transform="translate(-219 -371)">
+      <rect id="Rectangle_2929" data-name="Rectangle 2929" width="48" height="48" rx="5" transform="translate(219 371)" fill="#fff"/>
+      <g id="Group_1244" data-name="Group 1244" transform="translate(231 385)">
+        <path id="Path_629" data-name="Path 629" d="M6,0,0,3.749,6,7.5l6-3.751Z" fill="#0062ff"/>
+        <path id="Path_630" data-name="Path 630" d="M18,0,12,3.749,18,7.5l6-3.751Z" fill="#0062ff"/>
+        <path id="Path_631" data-name="Path 631" d="M0,11.25,6,15l6-3.749L6,7.5Z" fill="#0062ff"/>
+        <path id="Path_632" data-name="Path 632" d="M12,11.25,18,15l6-3.75L18,7.5Z" fill="#0062ff"/>
+        <path id="Path_633" data-name="Path 633" d="M6,16.25,12,20l6-3.75L12,12.5Z" fill="#0062ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
